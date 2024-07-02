@@ -1,0 +1,7 @@
+streamlit
+pickle
+numpy
+panda
+requests
+openc-python-headless
+easyocr
